@@ -1,6 +1,10 @@
 # Python learning playbook
 This repository stores Python learning Playbook.
 
+For instance,  there are the following Python examples in this repo :
+
+- Python calculator
+- Radmon Functions in Azure Python Function
 
 
 ## Guide blog site 
