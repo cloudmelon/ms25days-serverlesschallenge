@@ -1,16 +1,28 @@
 # Python learning playbook
-This repository stores Python learning Playbook.
+
+This repository stores Python learning Playbook, this playbook is aming to guide learner through beginner to proficiency level with code examples with focus of Python for Data Scientists and Data Engineers. 
 
 For instance,  there are the following Python examples in this repo :
-
+- 00 - Basics 
 - Python calculator
 - Radmon Functions in Azure Python Function
 
 
 ## Guide blog site 
+
 Blog site : https://www.cloud-melon.com/
 
 Share your insights with @MelonyQ at https://twitter.com/MelonyQ
+
+
+## Resources 
+
+Some good resource to go for beginners are learning Python : https://github.com/microsoft/c9-python-getting-started
+
+Introduction to Python on Microsoft Learn : https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
+
+Pogramming with Python on Youtube : https://youtu.be/jFCNu1-Xdsw
+
 
 ## Cloudmelon playbook Github repositories : 
 
@@ -48,7 +60,7 @@ Hybrid Scenarios :
 
 
 
-## Guidelines
+## Published book authored and co-authored by cloudmelon
 
 - The Kubernetes Workshop 
   https://www.packtpub.com/gb/cloud-networking/the-kubernetes-workshop
