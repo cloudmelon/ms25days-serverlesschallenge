@@ -2,8 +2,12 @@
 
 This repository stores Python learning Playbook, this playbook is aming to guide learner through beginner to proficiency level with code examples with focus of Python for Data Scientists and Data Engineers. 
 
-For instance,  there are the following Python examples in this repo :
-- 00 - Basics 
+For instance,  there are the following Python docs in this repo :
+- 00 - Basics
+
+
+
+There are the following Python code samples in this repo
 - Python calculator
 - Radmon Functions in Azure Python Function
 

@@ -1,5 +1,7 @@
 # Play 2 String formatting functions
 
+This play introduces the formatting and functions in Python
+
 ## Single quotes or double quotes ? 
 
 In general you can use single quote it works perfectly !
