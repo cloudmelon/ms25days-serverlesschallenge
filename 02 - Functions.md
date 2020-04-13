@@ -86,7 +86,7 @@ Expecting the output would be as the following :
 
 <img src="Screenshots/num_math.PNG" alt="num math" width="600px"/>
 
-## Playing with string and numbers 
+## Playing with BOTH string and numbers 
 
 In this case, Python is getting confused sometimes, so you need to tell them exactly what data types in your program, this is where conversion comes in, the previous program could be improved as the following : 
 
@@ -117,3 +117,61 @@ print(num_1**num_2)
 Expecting the output would be as the following : 
 
 <img src="Screenshots/num_str_math.PNG" alt="num str math" width="600px"/>
+
+
+## Play with date data types
+
+This is widely used in logging or saving data creation or modification time :
+
+```
+# Import the libraries
+from datetime import datetime
+
+current_date = datetime.now()
+
+print(current_date)
+print('Now is ', str(current_date))
+print('Day: ' + str(current_date.day))
+print('Month: ' + str(current_date.month))
+print('Year : ' + str(current_date.year))
+
+```
+
+## use timedelta to define a period of time 
+
+```
+from datetime import datetime, timedelta
+
+current_date = datetime.now()
+
+
+one_day = timedelta(days=1)
+one_week = timedelta(weeks=1)
+
+yday = current_date - one_day
+the_same_date_last_week = current_date - one_week
+
+print('Yesterday was ', str(yday))
+print('The same day last week was ', str(the_same_date_last_week))
+```
+
+Expecting the output would be as the following : 
+<img src="Screenshots/date_timedelta.PNG" alt="date timedelta" width="600px"/>
+
+To know more about datetime please check documentation :  https://docs.python.org/3/library/datetime.html
+
+## strftime vs strptime 
+
+strptime is short for "parse time" where strftime is for "formatting time".
+
+```
+# Import the libraries
+from datetime import datetime
+current_date = datetime.now()
+
+# convert to a date time object
+date_for_today = datetime.strftime(current_date,'%d/%m/%y')
+print("Today's date is : " + str(date_for_today))
+
+```
+

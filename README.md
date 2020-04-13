@@ -23,6 +23,8 @@ Introduction to Python on Microsoft Learn : https://docs.microsoft.com/en-us/lea
 
 Pogramming with Python on Youtube : https://youtu.be/jFCNu1-Xdsw
 
+A good learning website for Python  : https://www.programiz.com/python-programming/datetime/strftime
+
 
 ## Cloudmelon playbook Github repositories : 
 
