@@ -206,8 +206,5 @@ multiparams_function('hello multiparams ')
 Expecting the output would be as the following : 
 <img src="Screenshots/functions.PNG" alt="functions" width="600px"/>
 
-## Modules
-
-A module is a python file with functions, classes and other components. It is designed to break code down into individual reusable structured pieces. 
 
 
