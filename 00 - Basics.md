@@ -1,24 +1,56 @@
 ## Getting Started
 
-
+This page introduces basics of Python as a start point 
 
 ## Installing packages 
 
-use pip to install an individual package : 
+By default if you install package via pip, it'll install the packages **globally** means for all Python applications for your PC, which is why common way to install packages locally by using a **virtual environment** ( similar to package.json then cread node_modules folder )
+
+```
+# Install virtual environment
+pip install virtualenv
+
+# Windows systems
+python -m venv <folder_name>
+
+# OSX/Linux (bash)
+virtualenv <folder_name>
+
+```
+
+Activate the virtual envionment in windows ( here **venv** is the folder name)  : 
+
+
+```
+# by using powershell 
+ .\venv\Scripts\activate.ps1
+
+# by uing cmd.exe
+ .\venv\Scripts\activate.bat
+
+# Bash Shell 
+../venu/Scripts/activate
+
+```
+
+Then you can use the following method to install Python packages, to use pip to install an individual package, you'll use the following command  : 
 
   ```
     pip install < package name >
   ```
 
-If you would like to install from a list of packages :
+If you would like to install from a list of packages  :
 
   ```
     pip install -r requirements.txt 
   ```
-  
+
+
+Youtube course they took 'colorama' package as an example. 
+
 ## Input and print out variables 
 
-When you're ready 
+When you're ready, just show you some quick examples : 
 
 
     ```
