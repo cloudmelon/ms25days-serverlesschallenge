@@ -27,13 +27,24 @@ Share your insights with @MelonyQ at https://twitter.com/MelonyQ
 
 ## Resources 
 
-Some good resource to go for beginners are learning Python : https://github.com/microsoft/c9-python-getting-started
+- Some good resource to go for beginners are learning Python : https://github.com/microsoft/c9-python-getting-started
 
-Introduction to Python on Microsoft Learn : https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
+- Introduction to Python on Microsoft Learn : https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
 
-Pogramming with Python on Youtube : https://youtu.be/jFCNu1-Xdsw
+- Pogramming with Python on Youtube : https://youtu.be/jFCNu1-Xdsw
 
-A good learning website for Python  : https://www.programiz.com/python-programming/
+- A good learning website for Python  : https://www.programiz.com/python-programming/
+
+- A good MOOC course - Data Wrangling with Python on Pluralsight : https://app.pluralsight.com/library/courses/data-wrangling-python/
+
+
+If you're specifically interested in working on Spark with Python, there are two MOOCs to go : 
+
+- Getting Started with Spark 2 on PluralSight : https://app.pluralsight.com/library/courses/spark-2-getting-started/
+- Apache Spark Fundamentals: https://app.pluralsight.com/library/courses/apache-spark-fundamentals/
+
+
+
 
 
 ## Cloudmelon playbook Github repositories : 
