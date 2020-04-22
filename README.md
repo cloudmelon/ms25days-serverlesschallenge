@@ -1,10 +1,14 @@
 # Python learning playbook
 
-This repository stores Python learning Playbook, this playbook is aming to guide learner through beginner to proficiency level with code examples with focus of Python for Data Scientists and Data Engineers. 
+This repository stores Python learning Playbook, this playbook is aiming to guide learner through beginner to proficiency level with code examples with focus of Python for Data Scientists and Data Engineers. 
 
 For instance,  there are the following Python docs in this repo :
-- 00 - Basics
-
+- [00 - Basics ](https://github.com/cloudmelon/python-playbook/blob/master/00%20-%20Basics.md)
+- [01 - Conversion ](https://github.com/cloudmelon/python-playbook/blob/master/01%20-%20Conversion.md)
+- [02 - Functions ](https://github.com/cloudmelon/python-playbook/blob/master/02%20-%20Functions.md)
+- [03 - Conditions ](https://github.com/cloudmelon/python-playbook/blob/master/03%20-%20Conditions.md)
+- [04 - Error Handling ](https://github.com/cloudmelon/python-playbook/blob/master/04%20-%20Error%20Handling.md)
+- [05 - Collections ](https://github.com/cloudmelon/python-playbook/blob/master/05%20-%20Collections.md)
 
 
 There are the following Python code samples in this repo
