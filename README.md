@@ -14,6 +14,8 @@ For instance,  there are the following Python docs in this repo :
 There are the following Python code samples in this repo
 - Python calculator
 - Radmon Functions in Azure Python Function
+- Python to call Azure Cognitive Services ( Text Analytics API )
+- Other sample code for each learning section
 
 
 ## Guide blog site 
