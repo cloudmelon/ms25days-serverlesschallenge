@@ -58,21 +58,9 @@ Golang Playbook:
 
    https://github.com/cloudmelon/golang-playbook 
 
-Git Playbook : 
-   
-   https://github.com/cloudmelon/git-playbook
-
-Linux Playbook :
-
-   https://github.com/cloudmelon/linux-playbook
-
-Hybrid Scenarios : 
-     
-   https://github.com/cloudmelon/hybrid-scenarios
 
 
-
-## Published book authored and co-authored by cloudmelon
+## Published book authored and co-authored by cloudmelon and welcome feedback !
 
 - The Kubernetes Workshop 
   https://www.packtpub.com/gb/cloud-networking/the-kubernetes-workshop
