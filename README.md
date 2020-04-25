@@ -38,6 +38,10 @@ Share your insights with @MelonyQ at https://twitter.com/MelonyQ
 - A good MOOC course - Data Wrangling with Python on Pluralsight : https://app.pluralsight.com/library/courses/data-wrangling-python/
 
 
+If you happen to work on machine learning and with various build-in functions provided by Python, here's a good place to go : 
+https://www.geeksforgeeks.org/
+
+
 If you're specifically interested in working on Spark with Python, there are two MOOCs to go : 
 
 - Getting Started with Spark 2 on PluralSight : https://app.pluralsight.com/library/courses/spark-2-getting-started/
